@@ -1,0 +1,8 @@
+Flask
+Werkzeug
+Flask-CORS
+google-auth-oauthlib
+pymongo
+requests
+bcrypt
+pyjwt
